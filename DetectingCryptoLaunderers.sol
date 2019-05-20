@@ -1,4 +1,4 @@
-xpragma solidity ^0.4.19;
+pragma solidity ^0.4.19;
 //This is my First Smart Contract
 //Muhammad Laziem Bin Shafie 1621781 muhdlaziem@gmail.com
 //Aishah Nabilah Binti Muhamad Ridzuan 1625084 ainachmrj@gmail.com
