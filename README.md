@@ -1,4 +1,4 @@
 # Solidity-Smart-Contract
 
 
-Tools used : https://remix.ethereum.org/
+Tool used : https://remix.ethereum.org/
